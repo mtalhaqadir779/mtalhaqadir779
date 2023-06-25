@@ -6,7 +6,8 @@
 - 🌱    Experienced in DevOps technologies including multiple cloud systems like AWS, Azure, and GCP. 
 ## 🛠 &nbsp;Tech Stack
 <br>
-![Java](https://img.shields.io/badge/Java-f89820)
+
+![Java](https://img.shields.io/badge/Java-f89820)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=logo=python&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F)&nbsp;
 ![SQL](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)&nbsp;
@@ -32,8 +33,8 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaqadir779&langs_count=8&theme=tokyonight&layout=compact" alt="Talha :: Top Langs" />
 
-## 🔰 &nbsp;Connect me
+## 🔰 &nbsp;Contact me
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:m.talha.qadir779@gmail.com)](mailto:m.talha.qadir779@gmail.com) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-qadir-627b5816b){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-qadir-627b5816b)
