@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Talha Qadir
-- 🤔    Associate Consultant at Clickchain Inc
+- 🤔    Principal Consultant at Click chain Inc
 - 🎓    Studied Computer Science at the `National University of Science and Technology`, Islamabad.
 - 🔭    Cyber security enthusiast.
 - ☁     Experienced in Product development.
