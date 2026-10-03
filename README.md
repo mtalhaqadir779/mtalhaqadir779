@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Talha Qadir
 
--   🚀 Principal Consultant at Click Chain Inc, specializing in backend and REST API development
-- 💼 Leading payroll feature expansion and integration of onboarding functionalities
-- 🛠️ Experienced in Java design patterns, CI/CD pipelines, and AWS technologies
-- 👨‍🏫 Mentor to interns, guiding them through backend product development best practices
-- 🤝 Collaborator with cross-functional teams to streamline development processes
-- 🎓 Computer Science graduate from the `National University of Science and Technology, Islamabad`
-- ☁️ Proficient in DevOps technologies across AWS, Azure, and GCP cloud platforms
+- 🚀 Senior Software Engineer at **ElectroCom IT** (since March 2026), building and shipping client-facing products
+- 🧩 Full-stack development, backend and REST APIs, and SaaS product building
+- 🧪 Quality engineering: test automation, CI/CD pipelines, release reliability
+- 🛠️ Experienced in Java design patterns, Spring Boot, and AWS technologies
+- ☁️ DevOps across AWS, Azure, and GCP
+- 🕘 Previously Principal Consultant at **Click Chain Inc** (until Dec 2025): backend/REST APIs, payroll and onboarding features, monolith-to-microservices work, and mentoring interns
+- 🎓 Computer Science graduate, `National University of Science and Technology, Islamabad`
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -25,10 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## 🔰 &nbsp;Profile Stats
+## 🔰 &nbsp;Top Languages
 
 <br>
-<img src="https://github-readme-stats-psi-lake.vercel.app/api/top-langs/?username=mtalhaqadir779&langs_count=8&theme=tokyonight&layout=compact" alt="Talha :: Top Langs" />
+
+<img src="./metrics.languages.svg" alt="Talha :: Top Languages" />
 
 ## 🔰 &nbsp;Contact me
 
