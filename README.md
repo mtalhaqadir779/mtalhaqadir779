@@ -25,11 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## 🔰 &nbsp;Top Languages
+## 🔰 &nbsp;Profile Stats
 
 <br>
 
-<img src="./metrics.languages.svg" alt="Talha :: Top Languages" />
+<img src="./metrics.svg" alt="Talha :: GitHub Metrics" />
 
 ## 🔰 &nbsp;Contact me
 
